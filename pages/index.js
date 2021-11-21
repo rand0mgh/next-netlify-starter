@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>merp</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://raw.githubusercontent.com/rand0mgh/next-netlify-starter/main/favicon.ico" />
       </Head>
 
       <main>
