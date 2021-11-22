@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        srgl
+        srgl (<code>powered by netlify</code>)
       </footer>
     </>
   )
